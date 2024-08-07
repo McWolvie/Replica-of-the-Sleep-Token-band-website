@@ -1,4 +1,4 @@
-## Replica of the Sleep Token band's website
+## Replica of the Sleep Token band website
 
 ### Descripción
 Replica de la página web de la banda de música Sleep Token. Este proyecto busca recrear la experiencia visual y de usuario del sitio original de la banda.
